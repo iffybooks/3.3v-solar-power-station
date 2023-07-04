@@ -1,5 +1,5 @@
   
-  
+
 
 <p align="center">
 <img
@@ -57,7 +57,7 @@ is robust to channel noise and resistant to multi-path fading, resulting
 in low interference.
 
   
-  
+
 
 **How far can it transmit?**
 
@@ -67,7 +67,7 @@ are lots of houses at the same level as you and your node, the range is
 more likely to be just one to three blocks.
 
   
-  
+
 
 **What is a mesh network?**
 
@@ -98,7 +98,7 @@ better than the first floor, and leaving the device on the roof is
 better than both of those locations!
 
   
-  
+
 
 ➡️**What is Meshtastic?**
 
@@ -109,7 +109,7 @@ LoRa32 V3 that comes in the Meshtastic kit from Iffy
 Books.</span></span></span></span>
 
   
-  
+
 
 **What is a lithium-ion battery?**
 
@@ -118,7 +118,7 @@ more expensive than other types of batteries, but offers a high depth of
 discharge, lifespan, charging rate.
 
   
-  
+
 
 **What is a charge controller?**
 
@@ -128,7 +128,7 @@ Without the charge controller, excess solar power from the panel could
 overcharge the battery.
 
   
-  
+
 
 ➡️**What is a voltage regulator circuit?**
 
@@ -146,7 +146,7 @@ id="Image102" data-align="left" data-hspace="4" data-vspace="8"
 width="127" height="159" />
 </p>
   
-  
+
 
 **What is a decoupling capacitor?**
 
@@ -156,25 +156,25 @@ suddenly drops, it’ll have enough power to counter act this change. If
 the voltage suddenly increases, it’ll be able to absorb that power.
 
   
-  
+
 
 ***Now it's time to learn how to make your own!***
 
 ***Parts***
 
   
-  
+
 
 **Included in your kit:**
 
-<div align="center"><table width="100%" data-cellpadding="5" data-cellspacing="0"
+<table width="100%" data-cellpadding="5" data-cellspacing="0"
 style="page-break-inside: auto">
 <colgroup>
 <col style="width: 50%" />
 <col style="width: 50%" />
 </colgroup>
 <tbody>
-<tr class="odd">
+<tr>
 <td width="50%"
 style="background: transparent; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.04in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in"><p><span
 style="text-decoration: none">• Heltec LoRa32 V3</span></p></td>
@@ -186,8 +186,7 @@ width="288" height="143" /><br />
 <br />
 </p></td>
 </tr>
-
-<tr class="odd">
+<tr>
 <td width="50%"
 style="background: transparent; border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in"><p><span
 style="text-decoration: none">• 6-Volt, 6-Watt monocrystalline solar
@@ -199,8 +198,7 @@ src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_ht
 id="Image23" data-align="bottom" data-hspace="4" data-vspace="8"
 data-border="0" width="202" height="198" /> </span></p></td>
 </tr>
-
-<tr class="odd">
+<tr>
 <td width="50%"
 style="background: transparent; border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in"><p><span
 style="text-decoration: none">• TP4056 battery charger
@@ -213,8 +211,7 @@ width="234" height="216" /><br />
 <br />
 </p></td>
 </tr>
-
-<tr class="odd">
+<tr>
 <td width="50%"
 style="background: transparent; border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in"><p><span
 style="text-decoration: none">• Button-top 18650 lithium-ion
@@ -228,8 +225,7 @@ src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_ht
 id="Image19" data-align="bottom" data-hspace="4" data-vspace="8"
 data-border="0" width="211" height="100" /> </span></p></td>
 </tr>
-
-<tr class="odd">
+<tr>
 <td width="50%"
 style="background: transparent; border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in"><p><span
 style="text-decoration: none">• 18650 battery clip</span></p>
@@ -248,8 +244,7 @@ src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_ht
 id="Image41" data-align="bottom" data-hspace="4" data-vspace="8"
 data-border="0" width="211" height="148" /> </span></p></td>
 </tr>
-
-<tr class="odd">
+<tr>
 <td width="50%"
 style="background: transparent; border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in"><p><span
 style="text-decoration: none">• MCP1700-3302E low-dropout (LDO)
@@ -266,8 +261,7 @@ src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_ht
 id="Image29" data-align="bottom" data-hspace="4" data-vspace="8"
 data-border="0" width="48" height="140" /> </span></p></td>
 </tr>
-
-<tr class="odd">
+<tr>
 <td width="50%"
 style="background: transparent; border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in"><p><span
 style="text-decoration: none">• 100uF electrolytic
@@ -279,8 +273,7 @@ src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_ht
 id="Image18" data-hspace="4" data-vspace="8" data-border="0" width="94"
 height="224" /> </span></p></td>
 </tr>
-
-<tr class="odd">
+<tr>
 <td width="50%"
 style="background: transparent; border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in"><p><span
 style="text-decoration: none">• 100nF ceramic capacitor</span></p></td>
@@ -289,10 +282,9 @@ style="background: transparent; border-top: none; border-bottom: 1px solid #0000
 style="text-decoration: none"><img
 src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_htm_b9ae402fb6b8da43.png"
 id="Image17" data-align="bottom" data-hspace="4" data-vspace="8"
-data-border="0" width="76" height="205" /> </span></p></td>
+data-border="0" width="130" height="205" /> </span></p></td>
 </tr>
-
-<tr class="odd">
+<tr>
 <td width="50%"
 style="background: transparent; border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in"><p><span
 style="text-decoration: none">• Perfboard</span></p></td>
@@ -300,8 +292,7 @@ style="text-decoration: none">• Perfboard</span></p></td>
 style="background: transparent; border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in"><p><br />
 </p></td>
 </tr>
-
-<tr class="odd">
+<tr>
 <td width="50%"
 style="background: transparent; border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in"><p><span
 style="text-decoration: none">• SH1.25 port and plug
@@ -314,8 +305,7 @@ width="209" height="202" /><br />
 <br />
 </p></td>
 </tr>
-
-<tr class="odd">
+<tr>
 <td width="50%"
 style="background: transparent; border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in"><p><span
 style="text-decoration: none">• Barrel plug</span></p></td>
@@ -327,8 +317,7 @@ width="230" height="85" /><br />
 <br />
 </p></td>
 </tr>
-
-<tr class="odd">
+<tr>
 <td width="50%"
 style="background: transparent; border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in"><p><span
 style="text-decoration: none">• 3/32" heat shrink tubing (~2" long)
@@ -340,8 +329,7 @@ src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_ht
 id="Image24" data-align="bottom" data-hspace="4" data-vspace="8"
 data-border="0" width="96" height="190" /> </span></p></td>
 </tr>
-
-<tr class="odd">
+<tr>
 <td width="50%"
 style="background: transparent; border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in"><p><span
 style="text-decoration: none">• Cable tie bases</span></p></td>
@@ -357,15 +345,15 @@ width="288" height="174" /><br />
 </table>
 
   
-  
 
-  
+
+
   
 
 **Parts you'll need to provide yourself:**
 
   
-  
+
 
 <table width="100%" data-cellpadding="5" data-cellspacing="0"
 style="page-break-inside: auto">
@@ -374,7 +362,7 @@ style="page-break-inside: auto">
 <col style="width: 50%" />
 </colgroup>
 <tbody>
-<tr class="odd">
+<tr>
 <td width="50%"
 style="background: transparent; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.04in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in"><p><span
 style="text-decoration: none">• Weatherproof enclosure</span></p>
@@ -387,7 +375,7 @@ src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_ht
 id="Image26" data-align="bottom" data-hspace="4" data-vspace="8"
 data-border="0" width="182" height="138" /> </span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td width="50%"
 style="background: transparent; border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in"><p><span
 style="text-decoration: none">• Brick (optional; for weighing down the
@@ -399,7 +387,7 @@ src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_ht
 id="Image27" data-align="bottom" data-hspace="4" data-vspace="8"
 data-border="0" width="154" height="89" /> </span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td width="50%"
 style="background: transparent; border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in"><p><span
 style="text-decoration: none">• Electrical tape</span></p></td>
@@ -414,11 +402,11 @@ width="135" height="142" /><br />
 </tbody>
 </table>
 
-  
+
   
 
   
-  
+
 
 **You’ll also need the following tools and supplies.**
 
@@ -429,7 +417,7 @@ style="page-break-inside: auto">
 <col style="width: 50%" />
 </colgroup>
 <tbody>
-<tr class="odd">
+<tr>
 <td width="50%"
 style="background: transparent; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.04in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in"><p><span
 style="text-decoration: none">• Soldering iron</span></p></td>
@@ -441,7 +429,7 @@ id="Image33" data-align="bottom" data-hspace="4" data-vspace="8"
 data-border="0" width="211" height="104" /> </span></p></td>
 </tr>
 
-<tr class="odd">
+<tr>
 <td width="50%"
 style="background: transparent; border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in"><p><span
 style="text-decoration: none">• Lead-free solder</span></p></td>
@@ -455,7 +443,7 @@ data-border="0" width="211" height="80" /> </span></p>
 </p></td>
 </tr>
 
-<tr class="odd">
+<tr>
 <td width="50%"
 style="background: transparent; border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in"><p><span
 style="text-decoration: none">• Helping hands tool (optional, but makes
@@ -469,7 +457,7 @@ width="186" height="241" /><br />
 </p></td>
 </tr>
 
-<tr class="odd">
+<tr>
 <td width="50%"
 style="background: transparent; border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in"><p><span
 style="text-decoration: none">• Wire strippers (or use wire
@@ -483,7 +471,7 @@ width="288" height="143" /><br />
 </p></td>
 </tr>
 
-<tr class="odd">
+<tr>
 <td width="50%"
 style="background: transparent; border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in"><p><span
 style="text-decoration: none">• Drill with bits that can drill through
@@ -497,7 +485,7 @@ width="261" height="174" /><br />
 </p></td>
 </tr>
 
-<tr class="odd">
+<tr>
 <td width="50%"
 style="background: transparent; border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in"><p><span
 style="text-decoration: none">• Heat gun (or hair dryer)</span></p></td>
@@ -509,7 +497,7 @@ id="Image34" data-align="bottom" data-hspace="4" data-vspace="8"
 data-border="0" width="176" height="125" /> </span></p></td>
 </tr>
 
-<tr class="odd">
+<tr>
 <td width="50%"
 style="background: transparent; border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in"><p><span
 style="text-decoration: none">• That glue that seals the washer in
@@ -520,8 +508,7 @@ style="background: transparent; border-top: none; border-bottom: 1px solid #0000
 </tr>
 </tbody>
 </table>
-</div>
-  
+
   
 
 ➡️***Building your node***
@@ -534,7 +521,7 @@ src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_ht
 id="Image3" data-align="left" data-hspace="4" data-vspace="8"
 width="264" height="182" />
 </p> 
-  
+
 *The battery clip and wires*
 
 <p align="center">
@@ -544,7 +531,7 @@ id="Image1" data-align="left" data-hspace="4" data-vspace="8"
 width="258" height="184" />
 </p>
   
-  
+
 
 *The TP4056 battery charger*
 
@@ -555,7 +542,7 @@ id="Image2" data-align="left" data-hspace="4" data-vspace="8"
 width="365" height="172" />
 </p>
   
-  
+
 
 *The soldering iron*
 
@@ -566,7 +553,7 @@ the black wire will connect to the B- solder hole.
 src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_htm_1b80def5d0b87da4.png"
 id="Image9" data-align="left" data-hspace="4" data-vspace="8"
 width="572" height="351" />  
-  
+
   
 
 The red wire from the battery will connect to the B+ through hole and
@@ -578,7 +565,7 @@ id="Image10" data-align="left" data-hspace="4" data-vspace="8"
 width="356" height="331" />  
 
   
-  
+
 
 **»** **Solder 20-gauge wire to TP4056 input**
 
@@ -619,7 +606,7 @@ width="438" height="266" />
 src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_htm_cb843b5a7a0e4a6b.png"
 id="Image43" data-align="left" data-hspace="4" data-vspace="8"
 width="342" height="203" />  
-  
+
   
 
 **» Cover the TP4056 with electrical tape and heat shrink**
@@ -628,7 +615,7 @@ width="342" height="203" />
 connections.*
 
   
-  
+
 
 Use electrical tape to cover all of the soldered joints.
 
@@ -642,7 +629,7 @@ width="335" height="149" />
 src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_htm_29362632c795cd6a.png"
 id="Image45" data-align="left" data-hspace="4" data-vspace="8"
 width="438" height="182" />  
-  
+
   
 
 *In this picture there is a hole for the troubleshooting lights on the
@@ -659,14 +646,14 @@ molds around the TP4056.
 src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_htm_c7d6e7c22cbd8735.png"
 id="Image46" data-align="left" data-hspace="4" data-vspace="8"
 width="438" height="217" />  
-  
+
   
 
 <img
 src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_htm_5df075cd203f1197.png"
 id="Image47" data-align="left" data-hspace="4" data-vspace="8"
 width="438" height="175" />  
-  
+
   
 
 Electrical tape around the edges since the heat shrink might not fully
@@ -676,7 +663,7 @@ mold around the ends.
 src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_htm_4a2e7750b14e9b4b.png"
 id="Image48" data-align="left" data-hspace="4" data-vspace="8"
 width="438" height="227" />  
-  
+
   
 
 **» Solder the voltage regulator components**
@@ -693,7 +680,7 @@ as marked below.
 src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_htm_b8e0ca81943a9720.png"
 id="graphics10" data-align="left" data-hspace="4" data-vspace="8"
 width="503" height="489" />  
-  
+
   
 
 Insert the ceramic capacitor with the numbers facing down into row 1.
@@ -703,7 +690,7 @@ The left leg will be column 1 and the right in column 3.
 src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_htm_c1deebb92cacd335.png"
 id="Image50" data-align="left" data-hspace="4" data-vspace="8"
 width="438" height="329" />  
-  
+
   
 
 Insert the electrolytic capacitor into row 2. One leg is longer than the
@@ -713,11 +700,11 @@ other. The short leg goes in column 1 and the long leg into column 3.
 src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_htm_d73a78250eee4d6a.png"
 id="Image51" data-align="left" data-hspace="4" data-vspace="8"
 width="438" height="327" />  
-  
+
   
 
   
-  
+
 
 The LDO will be inserted into row 3 with the flat side facing down. The
 legs will go into columns 1, 2 and 3.
@@ -726,7 +713,7 @@ legs will go into columns 1, 2 and 3.
 src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_htm_19085eee1eb0b001.png"
 id="Image52" data-align="left" data-hspace="4" data-vspace="8"
 width="250" height="220" />  
-  
+
   
 
 This is what your perfboard will look like from the bottom.
@@ -735,7 +722,7 @@ This is what your perfboard will look like from the bottom.
 src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_htm_9e823d06e03da20d.png"
 id="graphics11" data-align="left" data-hspace="4" data-vspace="8"
 width="275" height="214" />  
-  
+
   
 
 After you solder all of the through holes, clip the extra wire. <img
@@ -752,18 +739,18 @@ into column 1 and the red wire into column 2.
 src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_htm_fc24ce53cee52b03.png"
 id="Image55" data-align="left" data-hspace="4" data-vspace="8"
 width="307" height="290" />  
-  
+
   
 
 <img
 src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_htm_695aa56be0c386b.png"
 id="Image57" data-align="left" data-hspace="4" data-vspace="8"
 width="438" height="265" />  
-  
+
   
 
   
-  
+
 
 Solder the SH1.25 connector wires to row 5. The black wire will go i
 <img
@@ -782,13 +769,13 @@ id="Image59" data-align="left" data-hspace="4" data-vspace="8"
 width="260" height="187" />  
 
   
+
+
+
   
 
   
-  
 
-  
-  
 
 **» Alternate mounting option**
 
@@ -809,7 +796,7 @@ give your node the best range!*
 src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_htm_a9a8cdd51d70de6.png"
 id="graphics12" data-align="left" data-hspace="4" data-vspace="8"
 width="365" height="555" />  
-  
+
   
 
 **» Drill a hole for the power cable in the weatherproof enclosure**
@@ -823,7 +810,7 @@ be adding a weep hole to allow any water that does get in to leak out.*
 placement of the holes.*
 
   
-  
+
 
 Drill a small hole in the enclosure for the power wire. This should be
 around 1/4”.
@@ -832,11 +819,11 @@ around 1/4”.
 src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_htm_fb48f416c0c0fe68.png"
 id="Image62" data-align="left" data-hspace="4" data-vspace="8"
 width="331" height="261" />  
-  
+
   
 
   
-  
+
 
 **» Drill a hole for the antenna in the enclosure**
 
@@ -853,7 +840,7 @@ width="320" height="239" />
 it and drill a hole for the antenna.
 
   
-  
+
 
 **» Drill a weep hole in the bottom of the enclosure**
 
@@ -863,9 +850,9 @@ cable hole. This will allow any water that gets in to the enclosure to
 leak out.
 
   
-  
 
-  
+
+
   
 
 **» Run the power cable through the bottom**
@@ -894,7 +881,7 @@ width="370" height="263" />
 by it's own heat shrink but also by the larger heat shrink around it!
 
   
-  
+
 
 Solder the power wire to barrel connector. Match up the red wire and the
 black wires!
@@ -903,7 +890,7 @@ black wires!
 src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_htm_7a13ab8e40496c3a.png"
 id="Image67" data-align="left" data-hspace="4" data-vspace="8"
 width="438" height="191" />  
-  
+
   
 
 **» Heat shrink the power cable**
@@ -914,11 +901,11 @@ Use a heat gun or hair dryer to shrink the heat shrink to the wires.
 src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_htm_778da89443eeab4e.png"
 id="Image69" data-align="left" data-hspace="4" data-vspace="8"
 width="438" height="245" />  
-  
+
   
 
   
-  
+
 
 **» Solder the SH1.25 port to the LoRa32**
 
@@ -934,17 +921,17 @@ id="image48.png" data-align="bottom" data-hspace="2" data-vspace="2"
 data-border="2" width="258" height="209" />
 
   
-  
+
 
 <img
 src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_htm_84c430aff46974c4.png"
 id="Image70" data-align="left" data-hspace="4" data-vspace="8"
 width="438" height="253" />  
-  
+
   
 
   
-  
+
 
 **» Arrange the components within the enclosure**
 
@@ -1002,7 +989,7 @@ Connect the barrel plug to the barrel plug end on the solar panel.
 src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_htm_4b45a681d4225366.png"
 id="Image80" data-align="left" data-hspace="4" data-vspace="8"
 width="438" height="245" />  
-  
+
   
 
 **» Your node should power on!**
@@ -1019,8 +1006,8 @@ width="438" height="259" />
 src="images/Zine%20Let&#39;s%20Make%20a%20Solar-Powered%20Chat%20Network%20v5_htm_fc73fe8656079d5.png"
 id="Image85" data-align="left" data-hspace="4" data-vspace="8"
 width="438" height="255" />  
-  
+
   
 
   
-  
+
