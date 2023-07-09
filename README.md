@@ -75,13 +75,12 @@ higher elevation. Installing the device in your second story window is
 better than the first floor, and leaving the device on the roof is
 better than both of those locations!
 
-➡️**What is Meshtastic?**
+➡️ **What is Meshtastic?**
 
 Meshtastic is an open source, off-grid, decentralized, mesh network
 built to run on affordable, low-power devices like the
-<span style="text-decoration: none"><span style="font-style: normal"><span style="font-weight: normal"><span style="text-decoration: none">Heltec
-LoRa32 V3 that comes in the Meshtastic kit from Iffy
-Books.</span></span></span></span>
+Heltec LoRa32 V3 that comes in the Meshtastic kit from Iffy
+Books.
 
 **What is a lithium-ion battery?**
 
@@ -96,7 +95,7 @@ panel to the battery and the load by controlling the charging rate.
 Without the charge controller, excess solar power from the panel could
 overcharge the battery.
 
-➡️**What is a voltage regulator circuit?**
+➡️ **What is a voltage regulator circuit?**
 
 <span lang="en-US">A voltage regulator circuit stabilizes fluctuating
 inputs to a fixed output to prevent even the slight chance of
@@ -118,7 +117,7 @@ the voltage suddenly increases, it’ll be able to absorb that power.
 
 ***Now it's time to learn how to make your own!***
 
-***Parts***
+### ***Parts***
 
 **Included in your kit:**
 
